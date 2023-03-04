@@ -1,4 +1,4 @@
-**Resto - HTML5 and Sass Website**
+**Resto - HTML5 and SCSS Website**
 
 Resto is a one page HTML5 and SCSS website template best for restaurant.
 
